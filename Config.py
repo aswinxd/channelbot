@@ -23,7 +23,7 @@ else:
     API_ID = 12799559 # api id here
     OWNER_ID = 1137799257
     API_HASH = "077254e69d93d08357f25bb5f4504580"
-    BOT_TOKEN = "6762340943:AAGWlaIy43vk8hB9-0zxWdbWVdCNygKLDpM"
+    BOT_TOKEN = "6762340943:AAF0fWyGAZk1TqGa8JXWVOaYTqth6v0hLPQ"
     DATABASE_URL = "postgres://cgofceil:6Hka0htlKsErFBUdYqGgNmDKQiXkiCsm@flora.db.elephantsql.com/cgofceil"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = "@xenonbots" # must join channel link here
