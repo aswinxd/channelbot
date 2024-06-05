@@ -1,3 +1,4 @@
+
 import os
 import loguru
 
@@ -23,7 +24,7 @@ else:
     API_ID = 12799559 # api id here
     OWNER_ID = 1137799257
     API_HASH = "077254e69d93d08357f25bb5f4504580"
-    BOT_TOKEN = "6762340943:AAF0fWyGAZk1TqGa8JXWVOaYTqth6v0hLPQ"
+    BOT_TOKEN = "6992564545:AAEz2LhBcJpzcri4ElLB4w7Vs63NB8JG5Oo"
     DATABASE_URL = "postgres://cgofceil:6Hka0htlKsErFBUdYqGgNmDKQiXkiCsm@flora.db.elephantsql.com/cgofceil"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = "@xenonbots" # must join channel link here
